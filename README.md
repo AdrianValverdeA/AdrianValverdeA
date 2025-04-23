@@ -15,4 +15,4 @@ Soy Adrián Valverde 👋
 - **[R/Rstudio]**
 
 ## 📩 Contacto:
-- [LinkedIn](www.linkedin.com/in/adrian-valverde-b58b7735b)
+- [LinkedIn](http://www.linkedin.com/in/adrian-valverde-b58b7735b)
